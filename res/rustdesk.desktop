@@ -2,7 +2,7 @@
 Name=FuckDesk
 GenericName=Remote Desktop
 Comment=Remote Desktop
-Exec=fuckdesk %u
+Exec=rustdesk %u
 Icon=rustdesk
 Terminal=false
 Type=Application
