@@ -2,8 +2,8 @@
 Name=FuckDeskURL Scheme Handler
 NoDisplay=true
 MimeType=x-scheme-handler/rustdesk;
-TryExec=fuckdesk
-Exec=fuckdesk %u
+TryExec=rustdesk
+Exec=rustdesk %u
 Icon=rustdesk
 Terminal=false
 Type=Application
