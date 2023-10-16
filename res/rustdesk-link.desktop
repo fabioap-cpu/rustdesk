@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=FuckDeskURL Scheme Handler
 NoDisplay=true
-MimeType=x-scheme-handler/fuckdesk;
+MimeType=x-scheme-handler/rustdesk;
 TryExec=fuckdesk
 Exec=fuckdesk %u
 Icon=rustdesk
